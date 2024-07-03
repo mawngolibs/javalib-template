@@ -1,4 +1,4 @@
-package io.x10.pushtimize.template;
+package io.github.mawngo;
 
 import lombok.experimental.UtilityClass;
 
